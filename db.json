@@ -1,0 +1,42 @@
+{
+  "applicantInformation": {
+    "firstName": "Don",
+    "middleName": "Lynn",
+    "lastName": "Johnson",
+    "dob": "1943-01-01",
+    "ssn": "123-45-6789"
+  },
+  "contactInformation": {
+    "homePhone": "(281) 334-4832",
+    "mobilePhone": "(281) 334-4832",
+    "emailAddress": "donljohnson@gmail.com",
+    "streetAddress": "1942 Mission Dr.",
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33034",
+    "isMailingAddressDifferent": "true"
+  },
+  "mailingAddress": {
+    "streetAddress": "1900 Beach St.",
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33034"
+  },
+  "employment": {
+    "employerName": "Miami Police Department",
+    "employerPhone": "281-334-4775",
+    "grossMonthlyIncome": 10000
+  },
+  "serviceInformation": {
+    "service": "Face Lift",
+    "serviceAmount": 15000,
+    "estimatedServiceDate": "2020-05-01"
+  },
+  "identification": {
+    "identificationType": "US Driver's License",
+    "idNumber": "FL01844",
+    "idIssuanceDate": "2018-01-01",
+    "idExpirationDate": "2023-01-01",
+    "idIssuanceState": "FL"
+  }
+}
