@@ -31,12 +31,5 @@
     "service": "Face Lift",
     "serviceAmount": 15000,
     "estimatedServiceDate": "2020-05-01"
-  },
-  "identification": {
-    "identificationType": "US Driver's License",
-    "idNumber": "FL01844",
-    "idIssuanceDate": "2018-01-01",
-    "idExpirationDate": "2023-01-01",
-    "idIssuanceState": "FL"
   }
 }
