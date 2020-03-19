@@ -1,19 +1,19 @@
 {
   "applicantInformation": {
-    "firstName": "Don",
-    "middleName": "Lynn",
-    "lastName": "Johnson",
+    "firstName": "Elliot",
+    "middleName": "L",
+    "lastName": "PMKNNP",
     "dob": "1943-01-01",
-    "ssn": "123-45-6789"
+    "ssn": "869642116"
   },
   "contactInformation": {
     "homePhone": "(281) 334-4832",
     "mobilePhone": "(281) 334-4832",
-    "emailAddress": "donljohnson@gmail.com",
-    "streetAddress": "1942 Mission Dr.",
-    "city": "Miami",
-    "state": "FL",
-    "zipCode": "33034",
+    "emailAddress": "elliot@gmail.com",
+    "streetAddress": "247 WILLIAM ROBERTS RD",
+    "city": "COLUMBUS",
+    "state": "MS",
+    "zipCode": "39702",
     "isMailingAddressDifferent": "true"
   },
   "mailingAddress": {
@@ -24,7 +24,7 @@
   },
   "employment": {
     "employerName": "Miami Police Department",
-    "employerPhone": "281-334-4775",
+    "employerPhone": "281-852-3416",
     "grossMonthlyIncome": 10000
   },
   "serviceInformation": {
